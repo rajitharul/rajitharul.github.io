@@ -33,7 +33,6 @@ Technologies Used - ELK, Java, Maven, Sidhdhi Ql, OAuth2, SwaggerAPI, Postman, J
 
 ## Projects
 ### HIGH IMPACT MOMENT ANALYSIS IN CRICKET USING MACHINE LEARNING
-[Publication](https://test_arul-publication)
 
 A Research Project which includes multi dimensional analysis of cricket features to predict certain outcomes
 of the game including wicket and boundary aspects.
@@ -41,7 +40,7 @@ Technologies Used - Python, BeautifulSoup, Pandas, NumPy, XGBoost, TensorFlow, R
 Docker, PyTest, OAuth2, Angular, PySpark
 
 ### TRAINING SCHEDULER SYSTEM
-[Publication](https://test_arul-publication)
+
 
 Training Session Scheduling system for a Training Session Conducting Academy which Includes features to schedule Training sessions, Allocate Resources, and Leave handling of trainers.
 Technologies Used - Java, SpringBoot, Angular, BitBucketPipeline, Angular, ElasticBeanStalk, MySQL
