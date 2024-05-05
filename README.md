@@ -1,6 +1,3 @@
-# rajitharul.github.io
-
-
 # Machine Learning Engineer 
 
 
