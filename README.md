@@ -3,11 +3,11 @@
 
 #### Technical Skills: Python, SQL, AWS, NLP, LLM, MLOps
 
-## Education			       		
-MASTER OF SCIENCE IN DATA SCIENCE AND AI ( READING )	| UNIVERSITY OF MORATUWA (January 2024 - Present)	 			        		
 
-BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY ( FIRST CLASS: GPA 3.79 ) | UNIVERSITY OF MORATUWA
-(August 2018 - June 2023)
+## Education						       		
+- M.Sc, Data Science and AI	| The University of Moratuwa (_January 2024 - Present_)	 			        		
+- B.Sc (Hons), Information Technology | The University of Moratuwa  (_June 2023_)
+
 
 ## Work Experience
 **SOFTWARE ENGINEER - MACHINE LEARNING @ SYNERGEN HEALTH LLC (_March 2023 - Present_)**
