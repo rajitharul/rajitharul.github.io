@@ -5,8 +5,8 @@
 
 
 ## Education						       		
-- M.Sc, Data Science and AI	| The University of Moratuwa (Reading)	 			        		
-- B.Sc (Hons), Information Technology | The University of Moratuwa  (_June 2023_)
+- M.Sc, Data Science and AI	 _The University of Moratuwa (Reading)_	 			        		
+- B.Sc (Hons), Information Technology  _The University of Moratuwa  (_June 2023_)_
 
 
 # Portfolio
