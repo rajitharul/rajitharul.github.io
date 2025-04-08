@@ -1,51 +1,79 @@
-# Machine Learning Engineer 
+# 👨‍💻 Machine Learning Engineer
 
+### 💡 Technical Skills
+**Python**, **SQL**, **AWS**, **NLP**, **LLM**, **MLOps**
 
-#### Technical Skills: Python, SQL, AWS, NLP, LLM, MLOps
+---
 
+## 🎓 Education
 
-## Education						       		
-- M.Sc, Data Science and AI	 _The University of Moratuwa (Reading)_	 			        		
-- B.Sc (Hons), Information Technology  _The University of Moratuwa  (_June 2023_)_
+- **M.Sc, Data Science and AI**  
+  _University of Moratuwa (Reading) — Jan 2024 – Present_
 
+- **B.Sc (Hons), Information Technology**  
+  _University of Moratuwa — Aug 2018 – June 2023_  
+  **First Class Honors (GPA: 3.79)**
 
-# Portfolio
+---
 
-## Work Experience
+## 💼 Professional Experience
 
-### SOFTWARE ENGINEER - MACHINE LEARNING @ SYNERGEN HEALTH LLC (March 2023 - Present)
+### 🚀 Software Engineer - Machine Learning  
+**Synergen Health LLC** — _March 2023 – Present_
 
-**OCR Information Management System** 
-- Extracting information from medical claim documents using Optical Character Recognition (OCR).
-- Visualizing results in a dashboard and actionable frontend.
-- Implemented several NLP techniques for further analysis.
+#### 🔹 OCR Information Extraction with LLM  
+- Extracted information from medical claim documents using OCR and LLMs.  
+- Visualized results in a dashboard with an actionable frontend.  
+- Applied LangChain with Llama3 and OpenAI models for context understanding.
 
-**Technologies Used:** Python, Pandas, Angular, FastAPI, Docker, BitBucket Pipelines, PyTest, OAuth2, AWS (EC2, Lambda, RDS, CloudWatch, CloudFront, SQS), PyTesseract, spaCy, MySQL, LangChain
+**Tech Stack:** Python, FastAPI, Docker, BitBucket Pipelines, PyTest, AWS (Lambda, RDS, SQS), PyTesseract, Llama3, MySQL, LangChain, OpenAI
 
-**Denial Category Prediction**
-- Multiclass prediction project for health insurance claims.
-- Built and deployed an end-to-end pipeline in AWS.
+#### 🔹 Medical Claim RAG  
+- Developed a RAG-powered chatbot to assist users in understanding claim denials.  
+- Used document retrieval and LLM-based Q&A over insurance claims.
 
-**Technologies Used:** Python, BeautifulSoup, Pandas, NumPy, Sklearn, XGBoost, LightGBM, TensorFlow, FastAPI, Docker, BitBucket Pipelines, PyTest, OAuth2, MLFlow
+**Tech Stack:** Python, FastAPI, LangChain, OpenAI, Pinecone, Docker, Bitbucket Pipelines, AWS ECS Fargate, Amazon S3, MongoDB
 
-### SOFTWARE ENGINEER - INTERN @ WS02 (January 2022 - July 2022)
+#### 🔹 Denial Category Prediction  
+- Built a multiclass prediction system for health insurance claim denials.  
+- Deployed a complete ML pipeline on AWS.
 
-**WS02 OB Data Publisher**
-- Conducted research and development tasks on the optimum approach to publish data to external analytical engines such as ELK.
+**Tech Stack:** Python, BeautifulSoup, Pandas, NumPy, Sklearn, LightGBM, TensorFlow, Flask, Docker, BitBucket Pipelines, PyTest, OAuth2, MLFlow
 
-**Technologies Used:** ELK, Java, Maven, Siddhi QL, OAuth2, SwaggerAPI, Postman, JUnit
+---
 
-## Projects
+### 🧪 Software Engineer - Intern  
+**WSO2** — _January 2022 – July 2022_
 
-### HIGH IMPACT MOMENT ANALYSIS IN CRICKET USING MACHINE LEARNING
+#### 🔹 WSO2 OB Data Publisher  
+- Researched and developed optimized data publishing mechanisms to external analytics platforms such as ELK.
 
-A research project that includes multi-dimensional analysis of cricket features to predict certain outcomes of the game, including wicket and boundary aspects.
+**Tech Stack:** ELK, Java, Maven, Siddhi QL, OAuth2, SwaggerAPI, Postman, JUnit
 
-**Technologies Used:** Python, BeautifulSoup, Pandas, NumPy, XGBoost, TensorFlow, RNN, FastAPI, Docker, PyTest, OAuth2, Angular, PySpark
+---
 
-### TRAINING SCHEDULER SYSTEM
+## 📂 Projects
 
-A training session scheduling system for a training session conducting academy, which includes features to schedule training sessions, allocate resources, and handle trainer leave.
+### 📚 Legal Case Law Retrieval  
+An intelligent legal research system that retrieves and summarizes relevant court cases and statutes for a given legal scenario using transformer-based LLMs.
 
-**Technologies Used:** Java, SpringBoot, Angular, BitBucketPipeline, ElasticBeanStalk, MySQL
+**Tech Stack:** LegalBERT, LangChain, Pinecone, OpenAIEmbeddings, PyPDF2, AWS, Flask
 
+---
+
+### 🏏 High Impact Moment Analysis in Cricket Using Machine Learning  
+Research project analyzing cricket match data to predict high-impact moments like wickets and boundaries.
+
+**Tech Stack:** Python, BeautifulSoup, Pandas, NumPy, XGBoost, TensorFlow, RNN, FastAPI, Docker, PyTest, OAuth2, Angular, PySpark
+
+---
+
+### 📅 Training Scheduler System  
+A training management platform to schedule sessions, allocate resources, and manage trainer leaves.
+
+**Tech Stack:** Java, SpringBoot, Angular, BitBucket Pipelines, ElasticBeanStalk, MySQL
+
+---
+
+## 📫 Let's Connect
+Feel free to check out my work and reach out via [LinkedIn](https://www.linkedin.com) or [email@example.com]
