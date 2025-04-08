@@ -76,4 +76,4 @@ A training management platform to schedule sessions, allocate resources, and man
 ---
 
 ## 📫 Let's Connect
-Feel free to check out my work and reach out via [LinkedIn](https://www.linkedin.com) or [email@example.com]
+Feel free to check out my work and reach out via [LinkedIn](https://www.linkedin.com/in/rajith-arul/)
